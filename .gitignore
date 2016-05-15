@@ -1,3 +1,5 @@
 venv
 *.pyc
 .DS_Store
+*/.DS_Store
+./marketplace/client/node_modules
